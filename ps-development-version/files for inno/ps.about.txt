@@ -1,0 +1,6 @@
+PS - Power and Sample Size Calculation
+Copyright  © 1997-2018 by William D. Dupont and Walton D. Plummer. 
+
+The PS Power and Sample Size Calculation program is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 United States License.
+
+See http://creativecommons.org/licenses/by-nc-nd/3.0/us/

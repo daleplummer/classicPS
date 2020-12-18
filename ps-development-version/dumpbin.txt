@@ -1,0 +1,53 @@
+Microsoft (R) COFF Binary File Dumper Version 3.00.5270
+Copyright (C) Microsoft Corp 1992-1995. All rights reserved.
+
+
+Dump of file psdll.dll
+
+File Type: DLL
+
+         Section contains the following Exports for psDll.dll
+
+                   0 characteristics
+            3F730CB5 time date stamp Thu Sep 25 10:41:41 2003
+                0.00 version
+                   1 ordinal base
+                  26 number of functions
+                  26 number of names
+
+            ordinal hint   name
+
+                  1    0   _ARRAYTEST@32  (00005440)
+                  2    1   _FISHEREST@40  (00002E60)
+                  3    2   _IPPOWER@36  (00005FA0)
+                  4    3   _IPRELRISK@48  (00003780)
+                  5    4   _IPSIZE@40  (00005B50)
+                  6    5   _LDELTASIZE@44  (00001000)
+                  7    6   _LPOWER@44  (00002800)
+                  8    7   _LSAMPLESIZE@44  (00004FE0)
+                  9    8   _MHOR@32  (00006680)
+                 10    9   _MHPOWERFCN@32  (000022F0)
+                 11    A   _MHSIZE@32  (00003410)
+                 12    B   _MODDSRATIO@28  (00003CC0)
+                 13    C   _MPOWER@32  (00003390)
+                 14    D   _MSAMPLESIZE@28  (000049A0)
+                 15    E   _PPOWER@28  (00001DB0)
+                 16    F   _PRELRISK@36  (00004700)
+                 17   10   _PSIZE@36  (00001F80)
+                 18   11   _SURVRELH@48  (00002BD0)
+                 19   12   _TEST2@4  (00003EE0)
+                 20   13   _TPOWER@24  (00001290)
+                 21   14   _TSAMPLESIZE@24  (000031A0)
+                 22   15   _TSIZE@4  (000014A0)
+                 23   16   _ZCRVALUE@4  (000026A0)
+                 24   17   _survpower@36  (00004A00)
+                 25   18   _survsize@36  (00001AF0)
+                 26   19   _tdeltasize@24  (00004BF0)
+
+     Summary
+
+       14000 .data
+        1000 .idata
+        1000 .rdata
+        6000 .reloc
+       33000 .text
