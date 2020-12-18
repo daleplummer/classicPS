@@ -1,6 +1,6 @@
 # classicPS
 
-This is the code for the original, Visual Basic 6 based Power and Sample Program (PS)
+This is the code for the original, Visual Basic 6 based Power and Sample Size Program (PS)
 
 As far as I know, the PS program must be built on a Windows XP system.  That means that one
 can't use the code in this repository to build PS on an arbitrary Windows computer.
